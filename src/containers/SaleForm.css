@@ -1,0 +1,8 @@
+#header {
+  background: url('https://static.squarespace.com/static/53445aefe4b070c12a6bc371/t/5345a3d9e4b0fe0f7c425456/1397072857334/background1_2.jpg')
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
